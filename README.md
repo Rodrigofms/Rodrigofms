@@ -76,7 +76,7 @@
 
 
 <div align= "center">
-<img class= "img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rodrigofms&bg_color=000&border_color=30A3DC&title_color=ff8c00&text_color=FFF&hide_title=true&card_width=1500" />
+<img class= "img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rodrigofms&bg_color=000&border_color=30A3DC&title_color=ff8c00&text_color=FFF&hide_title=true&card_width=1000" />
 </div>
 
 <br>
