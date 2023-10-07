@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
 
-**<h3 align="center">Bem-vindo ao meu perfil</h3>**
-
 # Sobre mim
 
 <h4>Bom, sou um designer gráfico que se apaixonou por programação e recentemente estou estudando e colocando em prática o conhecimento obtido e colocando o fruto disso aqui.</h4>
