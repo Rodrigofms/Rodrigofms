@@ -17,8 +17,11 @@
 
 <h3> Concluídos: </h3>
 
+- **Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python | _Fundação Bradesco_**
+- **Descubra a Nuvem AWS – LocalizaLabs | _DIO_**
+- **Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python | _Fundação Bradesco_**
+- **Fundamentos de Lógica de Programação | _Fundação Bradesco_**
 - **Santander Bootcamp 2023 - Ciência de Dados com Python | _DIO_**
-
 <br>
 
 ## Linguagens e RTE'_s_:
