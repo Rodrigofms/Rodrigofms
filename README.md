@@ -18,6 +18,8 @@
 <h3> Concluídos: </h3>
 
 - **Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python | _Fundação Bradesco_**
+- **Curso Design Gráfico Completo 10 Cursos do Zero Ao Avançado | _Udemy_**
+- **Curso Edição de Vídeo Completo, 4 Cursos do Zero ao Avançado | _Udemy_**
 - **Descubra a Nuvem AWS – LocalizaLabs | _DIO_**
 - **Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python | _Fundação Bradesco_**
 - **Fundamentos de Lógica de Programação | _Fundação Bradesco_**
@@ -62,10 +64,16 @@
 
 ## Aplicativos e Ferramentas:
 
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ](https://git-scm.com/)
+![Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
+![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/pt-br/)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
