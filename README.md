@@ -2,7 +2,7 @@
 
 # Sobre mim
 
-<h4>Bom, sou um designer gráfico que se apaixonou por programação e recentemente estou estudando e colocando em prática o conhecimento obtido e colocando o fruto disso aqui.</h4>
+<h4>Sou um designer gráfico que se apaixonou por programação, no qual decidiu estudar, colocando em prática o conhecimento obtido, disponibilizando o mesmo aqui.</h4>
 
 <br>
 
