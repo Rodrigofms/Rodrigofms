@@ -91,7 +91,7 @@
 
 <div align="center">
 <a href="https://github.com/Rodrigofms/calculadora-de-imposto-de-pessoa-fisica-e-juridica"> <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigofms&repo=calculadora-de-imposto-de-pessoa-fisica-e-juridica&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff8c00&text_color=FFF" /> </a>
-<a href="https://github.com/Rodrigofms/estudo-sistema-crud"> <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigofms&repo=estudo-sistema-crud&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff8c00&text_color=FFF" /> </a>
+<a href="https://github.com/Rodrigofms/trilha-net-api-desafio"> <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigofms&repo=trilha-net-api-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff8c00&text_color=FFF" /> </a>
 <a href="https://github.com/Rodrigofms/sistema-de-controle-interno"> <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigofms&repo=sistema-de-controle-interno&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff8c00&text_color=FFF" /> </a>
 </div>
 
