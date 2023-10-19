@@ -10,18 +10,21 @@
 
 <h3> Em andamento: </h3>
 
-- **Bootcamp WEX - Desenvolvimento .NET e QA | _DIO_**
 - **Codificação para Back-End | _SENAI_**
 - **Complete Python Developer in 2023: Zero to Mastery | _Udemy_**
 - **The Complete Web Developer in 2023: Zero to Mastery | _Udemy_**
 
 <h3> Concluídos: </h3>
 
+- **Bootcamp WEX - Desenvolvimento .NET e QA | _DIO_**
+
 - **Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python | _Fundação Bradesco_**
 - **Curso Design Gráfico Completo 10 Cursos do Zero Ao Avançado | _Udemy_**
 - **Curso Edição de Vídeo Completo, 4 Cursos do Zero ao Avançado | _Udemy_**
 - **Descubra a Nuvem AWS – LocalizaLabs | _DIO_**
 - **Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python | _Fundação Bradesco_**
+- **Potência Tech iFood - Programação do Zero | _DIO_**
+
 - **Fundamentos de Lógica de Programação | _Fundação Bradesco_**
 - **Santander Bootcamp 2023 - Ciência de Dados com Python | _DIO_**
 <br>
