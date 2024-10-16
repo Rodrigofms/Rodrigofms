@@ -17,7 +17,6 @@
 - **PROPROFISSÃO | Instituo Proa**
 - **The Complete Web Developer in 2023: Zero to Mastery | _Udemy_**
 - **Fundamentos de Lógica de Programação | _Fundação Bradesco_**
-- **Santander Bootcamp 2023 - Ciência de Dados com Python | _DIO_**
 <br>
 
 ## Linguagens e RTE'_s_:
@@ -25,6 +24,7 @@
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![Java](https://img.shields.io/badge/java-EB2025.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
@@ -41,6 +41,7 @@
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/pt-br/)
+[![Spring](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 
 
 <br>
@@ -76,6 +77,8 @@
 <a href="https://github.com/Rodrigofms/detector-de-rostos"> <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigofms&repo=detector-de-rostos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff8c00&text_color=FFF" /> </a>
 <a href="[https://github.com/Rodrigofms/trilha-net-api-desafio](https://github.com/Rodrigofms/ForumHub)"> <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigofms&repo=ForumHub&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff8c00&text_color=FFF" /> </a>
 <a href="https://github.com/Rodrigofms/tradutor"> <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigofms&repo=tradutor&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff8c00&text_color=FFF" /> </a>
+ <a href="https://github.com/Rodrigofms/sistema-de-controle-interno"> <img class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigofms&repo=sistema-de-controle-interno&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff8c00&text_color=FFF" /> </a>
+</div>
 </div>
 
 <h2>  </h2>
